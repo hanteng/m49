@@ -145,6 +145,7 @@ print ("The lengths of m49, CLDR, and the joined dataset are {}, {}, {}".format(
 
 #print (df['m49_missing_codes_but_included_in_cldr'])     # missing UN numeric codes, but included in CLDR, possibly because of the ISO country codes/top-level domain names
 label='in_cldr_without_numeric'
+df[label].sort_values(['region','countrycode2']).to_csv(os.path.join (path_data, "_cf_m49_cldr_{}.tsv".format(label)), sep='\t', encoding="utf8", index=False, na_rep='(missing)')
 
 
 

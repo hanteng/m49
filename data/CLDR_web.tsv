@@ -1,0 +1,258 @@
+countrycode	countryname	countrycode2	numeric	region	r_long	r_long_d
+ASC	Ascension Island	AC		QO	Oceania	Outlying Oceania
+AND	Andorra	AD	020	039	Europe	Southern Europe
+ARE	United Arab Emirates	AE	784	145	Asia	Western Asia
+AFG	Afghanistan	AF	004	034	Asia	Southern Asia
+ATG	Antigua & Barbuda	AG	028	029	Americas	Caribbean
+AIA	Anguilla	AI	660	029	Americas	Caribbean
+ALB	Albania	AL	008	039	Europe	Southern Europe
+ARM	Armenia	AM	051	145	Asia	Western Asia
+AGO	Angola	AO	024	017	Africa	Middle Africa
+ATA	Antarctica	AQ	010	QO	Oceania	Outlying Oceania
+ARG	Argentina	AR	032	005	Americas	South America
+ASM	American Samoa	AS	016	061	Oceania	Polynesia
+AUT	Austria	AT	040	155	Europe	Western Europe
+AUS	Australia	AU	036	053	Oceania	Australia and New Zealand
+ABW	Aruba	AW	533	029	Americas	Caribbean
+ALA	Åland Islands	AX	248	154	Europe	Northern Europe
+AZE	Azerbaijan	AZ	031	145	Asia	Western Asia
+BIH	Bosnia & Herzegovina	BA	070	039	Europe	Southern Europe
+BRB	Barbados	BB	052	029	Americas	Caribbean
+BGD	Bangladesh	BD	050	034	Asia	Southern Asia
+BEL	Belgium	BE	056	155	Europe	Western Europe
+BFA	Burkina Faso	BF	854	011	Africa	Western Africa
+BGR	Bulgaria	BG	100	151	Europe	Eastern Europe
+BHR	Bahrain	BH	048	145	Asia	Western Asia
+BDI	Burundi	BI	108	014	Africa	Eastern Africa
+BEN	Benin	BJ	204	011	Africa	Western Africa
+BLM	St. Barthélemy	BL	652	029	Americas	Caribbean
+BMU	Bermuda	BM	060	021	Americas	Northern America
+BRN	Brunei	BN	096	035	Asia	South-Eastern Asia
+BOL	Bolivia	BO	068	005	Americas	South America
+BES	Caribbean Netherlands	BQ	535	029	Americas	Caribbean
+BRA	Brazil	BR	076	005	Americas	South America
+BHS	Bahamas	BS	044	029	Americas	Caribbean
+BTN	Bhutan	BT	064	034	Asia	Southern Asia
+BVT	Bouvet Island	BV	074	QO	Oceania	Outlying Oceania
+BWA	Botswana	BW	072	018	Africa	Southern Africa
+BLR	Belarus	BY	112	151	Europe	Eastern Europe
+BLZ	Belize	BZ	084	013	Americas	Central America
+CAN	Canada	CA	124	021	Americas	Northern America
+CCK	Cocos (Keeling) Islands	CC	166	QO	Oceania	Outlying Oceania
+COD	Congo - Kinshasa	CD	180	017	Africa	Middle Africa
+CAF	Central African Republic	CF	140	017	Africa	Middle Africa
+COG	Congo - Brazzaville	CG	178	017	Africa	Middle Africa
+CHE	Switzerland	CH	756	155	Europe	Western Europe
+CIV	Côte d’Ivoire	CI	384	011	Africa	Western Africa
+COK	Cook Islands	CK	184	061	Oceania	Polynesia
+CHL	Chile	CL	152	005	Americas	South America
+CMR	Cameroon	CM	120	017	Africa	Middle Africa
+CHN	China	CN	156	030	Asia	Eastern Asia
+COL	Colombia	CO	170	005	Americas	South America
+CPT	Clipperton Island	CP		QO	Oceania	Outlying Oceania
+CRI	Costa Rica	CR	188	013	Americas	Central America
+CUB	Cuba	CU	192	029	Americas	Caribbean
+CPV	Cape Verde	CV	132	011	Africa	Western Africa
+CUW	Curaçao	CW	531	029	Americas	Caribbean
+CXR	Christmas Island	CX	162	QO	Oceania	Outlying Oceania
+CYP	Cyprus	CY	196	145	Asia	Western Asia
+CZE	Czech Republic	CZ	203	151	Europe	Eastern Europe
+DEU	Germany	DE	276	155	Europe	Western Europe
+DGA	Diego Garcia	DG		QO	Oceania	Outlying Oceania
+DJI	Djibouti	DJ	262	014	Africa	Eastern Africa
+DNK	Denmark	DK	208	154	Europe	Northern Europe
+DMA	Dominica	DM	212	029	Americas	Caribbean
+DOM	Dominican Republic	DO	214	029	Americas	Caribbean
+DZA	Algeria	DZ	012	015	Africa	Northern Africa
+_EA	Ceuta & Melilla	EA		015	Africa	Northern Africa
+ECU	Ecuador	EC	218	005	Americas	South America
+EST	Estonia	EE	233	154	Europe	Northern Europe
+EGY	Egypt	EG	818	015	Africa	Northern Africa
+ESH	Western Sahara	EH	732	015	Africa	Northern Africa
+ERI	Eritrea	ER	232	014	Africa	Eastern Africa
+ESP	Spain	ES	724	039	Europe	Southern Europe
+ETH	Ethiopia	ET	231	014	Africa	Eastern Africa
+FIN	Finland	FI	246	154	Europe	Northern Europe
+FJI	Fiji	FJ	242	054	Oceania	Melanesia
+FLK	Falkland Islands	FK	238	005	Americas	South America
+FSM	Micronesia	FM	583	057	Oceania	Micronesia
+FRO	Faroe Islands	FO	234	154	Europe	Northern Europe
+FRA	France	FR	250	155	Europe	Western Europe
+GAB	Gabon	GA	266	017	Africa	Middle Africa
+GBR	United Kingdom	GB	826	154	Europe	Northern Europe
+GRD	Grenada	GD	308	029	Americas	Caribbean
+GEO	Georgia	GE	268	145	Asia	Western Asia
+GUF	French Guiana	GF	254	005	Americas	South America
+GGY	Guernsey	GG	831	154	Europe	Northern Europe
+GHA	Ghana	GH	288	011	Africa	Western Africa
+GIB	Gibraltar	GI	292	039	Europe	Southern Europe
+GRL	Greenland	GL	304	021	Americas	Northern America
+GMB	Gambia	GM	270	011	Africa	Western Africa
+GIN	Guinea	GN	324	011	Africa	Western Africa
+GLP	Guadeloupe	GP	312	029	Americas	Caribbean
+GNQ	Equatorial Guinea	GQ	226	017	Africa	Middle Africa
+GRC	Greece	GR	300	039	Europe	Southern Europe
+SGS	South Georgia & South Sandwich Islands	GS	239	QO	Oceania	Outlying Oceania
+GTM	Guatemala	GT	320	013	Americas	Central America
+GUM	Guam	GU	316	057	Oceania	Micronesia
+GNB	Guinea-Bissau	GW	624	011	Africa	Western Africa
+GUY	Guyana	GY	328	005	Americas	South America
+HKG	Hong Kong SAR China	HK	344	030	Asia	Eastern Asia
+HMD	Heard & McDonald Islands	HM	334	QO	Oceania	Outlying Oceania
+HND	Honduras	HN	340	013	Americas	Central America
+HRV	Croatia	HR	191	039	Europe	Southern Europe
+HTI	Haiti	HT	332	029	Americas	Caribbean
+HUN	Hungary	HU	348	151	Europe	Eastern Europe
+_IC	Canary Islands	IC		015	Africa	Northern Africa
+IDN	Indonesia	ID	360	035	Asia	South-Eastern Asia
+IRL	Ireland	IE	372	154	Europe	Northern Europe
+ISR	Israel	IL	376	145	Asia	Western Asia
+IMN	Isle of Man	IM	833	154	Europe	Northern Europe
+IND	India	IN	356	034	Asia	Southern Asia
+IOT	British Indian Ocean Territory	IO	086	QO	Oceania	Outlying Oceania
+IRQ	Iraq	IQ	368	145	Asia	Western Asia
+IRN	Iran	IR	364	034	Asia	Southern Asia
+ISL	Iceland	IS	352	154	Europe	Northern Europe
+ITA	Italy	IT	380	039	Europe	Southern Europe
+JEY	Jersey	JE	832	154	Europe	Northern Europe
+JAM	Jamaica	JM	388	029	Americas	Caribbean
+JOR	Jordan	JO	400	145	Asia	Western Asia
+JPN	Japan	JP	392	030	Asia	Eastern Asia
+KEN	Kenya	KE	404	014	Africa	Eastern Africa
+KGZ	Kyrgyzstan	KG	417	143	Asia	Central Asia
+KHM	Cambodia	KH	116	035	Asia	South-Eastern Asia
+KIR	Kiribati	KI	296	057	Oceania	Micronesia
+COM	Comoros	KM	174	014	Africa	Eastern Africa
+KNA	St. Kitts & Nevis	KN	659	029	Americas	Caribbean
+PRK	North Korea	KP	408	030	Asia	Eastern Asia
+KOR	South Korea	KR	410	030	Asia	Eastern Asia
+KWT	Kuwait	KW	414	145	Asia	Western Asia
+CYM	Cayman Islands	KY	136	029	Americas	Caribbean
+KAZ	Kazakhstan	KZ	398	143	Asia	Central Asia
+LAO	Laos	LA	418	035	Asia	South-Eastern Asia
+LBN	Lebanon	LB	422	145	Asia	Western Asia
+LCA	St. Lucia	LC	662	029	Americas	Caribbean
+LIE	Liechtenstein	LI	438	155	Europe	Western Europe
+LKA	Sri Lanka	LK	144	034	Asia	Southern Asia
+LBR	Liberia	LR	430	011	Africa	Western Africa
+LSO	Lesotho	LS	426	018	Africa	Southern Africa
+LTU	Lithuania	LT	440	154	Europe	Northern Europe
+LUX	Luxembourg	LU	442	155	Europe	Western Europe
+LVA	Latvia	LV	428	154	Europe	Northern Europe
+LBY	Libya	LY	434	015	Africa	Northern Africa
+MAR	Morocco	MA	504	015	Africa	Northern Africa
+MCO	Monaco	MC	492	155	Europe	Western Europe
+MDA	Moldova	MD	498	151	Europe	Eastern Europe
+MNE	Montenegro	ME	499	039	Europe	Southern Europe
+MAF	St. Martin	MF	663	029	Americas	Caribbean
+MDG	Madagascar	MG	450	014	Africa	Eastern Africa
+MHL	Marshall Islands	MH	584	057	Oceania	Micronesia
+MKD	Macedonia	MK	807	039	Europe	Southern Europe
+MLI	Mali	ML	466	011	Africa	Western Africa
+MMR	Myanmar (Burma)	MM	104	035	Asia	South-Eastern Asia
+MNG	Mongolia	MN	496	030	Asia	Eastern Asia
+MAC	Macau SAR China	MO	446	030	Asia	Eastern Asia
+MNP	Northern Mariana Islands	MP	580	057	Oceania	Micronesia
+MTQ	Martinique	MQ	474	029	Americas	Caribbean
+MRT	Mauritania	MR	478	011	Africa	Western Africa
+MSR	Montserrat	MS	500	029	Americas	Caribbean
+MLT	Malta	MT	470	039	Europe	Southern Europe
+MUS	Mauritius	MU	480	014	Africa	Eastern Africa
+MDV	Maldives	MV	462	034	Asia	Southern Asia
+MWI	Malawi	MW	454	014	Africa	Eastern Africa
+MEX	Mexico	MX	484	013	Americas	Central America
+MYS	Malaysia	MY	458	035	Asia	South-Eastern Asia
+MOZ	Mozambique	MZ	508	014	Africa	Eastern Africa
+NAM	Namibia	NA	516	018	Africa	Southern Africa
+NCL	New Caledonia	NC	540	054	Oceania	Melanesia
+NER	Niger	NE	562	011	Africa	Western Africa
+NFK	Norfolk Island	NF	574	053	Oceania	Australia and New Zealand
+NGA	Nigeria	NG	566	011	Africa	Western Africa
+NIC	Nicaragua	NI	558	013	Americas	Central America
+NLD	Netherlands	NL	528	155	Europe	Western Europe
+NOR	Norway	NO	578	154	Europe	Northern Europe
+NPL	Nepal	NP	524	034	Asia	Southern Asia
+NRU	Nauru	NR	520	057	Oceania	Micronesia
+NIU	Niue	NU	570	061	Oceania	Polynesia
+NZL	New Zealand	NZ	554	053	Oceania	Australia and New Zealand
+OMN	Oman	OM	512	145	Asia	Western Asia
+PAN	Panama	PA	591	013	Americas	Central America
+PER	Peru	PE	604	005	Americas	South America
+PYF	French Polynesia	PF	258	061	Oceania	Polynesia
+PNG	Papua New Guinea	PG	598	054	Oceania	Melanesia
+PHL	Philippines	PH	608	035	Asia	South-Eastern Asia
+PAK	Pakistan	PK	586	034	Asia	Southern Asia
+POL	Poland	PL	616	151	Europe	Eastern Europe
+SPM	St. Pierre & Miquelon	PM	666	021	Americas	Northern America
+PCN	Pitcairn Islands	PN	612	061	Oceania	Polynesia
+PRI	Puerto Rico	PR	630	029	Americas	Caribbean
+PSE	Palestinian Territories	PS	275	145	Asia	Western Asia
+PRT	Portugal	PT	620	039	Europe	Southern Europe
+PLW	Palau	PW	585	057	Oceania	Micronesia
+PRY	Paraguay	PY	600	005	Americas	South America
+QAT	Qatar	QA	634	145	Asia	Western Asia
+REU	Réunion	RE	638	014	Africa	Eastern Africa
+ROU	Romania	RO	642	151	Europe	Eastern Europe
+SRB	Serbia	RS	688	039	Europe	Southern Europe
+RUS	Russia	RU	643	151	Europe	Eastern Europe
+RWA	Rwanda	RW	646	014	Africa	Eastern Africa
+SAU	Saudi Arabia	SA	682	145	Asia	Western Asia
+SLB	Solomon Islands	SB	090	054	Oceania	Melanesia
+SYC	Seychelles	SC	690	014	Africa	Eastern Africa
+SDN	Sudan	SD	729	015	Africa	Northern Africa
+SWE	Sweden	SE	752	154	Europe	Northern Europe
+SGP	Singapore	SG	702	035	Asia	South-Eastern Asia
+SHN	St. Helena	SH	654	011	Africa	Western Africa
+SVN	Slovenia	SI	705	039	Europe	Southern Europe
+SJM	Svalbard & Jan Mayen	SJ	744	154	Europe	Northern Europe
+SVK	Slovakia	SK	703	151	Europe	Eastern Europe
+SLE	Sierra Leone	SL	694	011	Africa	Western Africa
+SMR	San Marino	SM	674	039	Europe	Southern Europe
+SEN	Senegal	SN	686	011	Africa	Western Africa
+SOM	Somalia	SO	706	014	Africa	Eastern Africa
+SUR	Suriname	SR	740	005	Americas	South America
+SSD	South Sudan	SS	728	014	Africa	Eastern Africa
+STP	São Tomé & Príncipe	ST	678	017	Africa	Middle Africa
+SLV	El Salvador	SV	222	013	Americas	Central America
+SXM	Sint Maarten	SX	534	029	Americas	Caribbean
+SYR	Syria	SY	760	145	Asia	Western Asia
+SWZ	Swaziland	SZ	748	018	Africa	Southern Africa
+TAA	Tristan da Cunha	TA		QO	Oceania	Outlying Oceania
+TCA	Turks & Caicos Islands	TC	796	029	Americas	Caribbean
+TCD	Chad	TD	148	017	Africa	Middle Africa
+ATF	French Southern Territories	TF	260	QO	Oceania	Outlying Oceania
+TGO	Togo	TG	768	011	Africa	Western Africa
+THA	Thailand	TH	764	035	Asia	South-Eastern Asia
+TJK	Tajikistan	TJ	762	143	Asia	Central Asia
+TKL	Tokelau	TK	772	061	Oceania	Polynesia
+TLS	Timor-Leste	TL	626	035	Asia	South-Eastern Asia
+TKM	Turkmenistan	TM	795	143	Asia	Central Asia
+TUN	Tunisia	TN	788	015	Africa	Northern Africa
+TON	Tonga	TO	776	061	Oceania	Polynesia
+TUR	Turkey	TR	792	145	Asia	Western Asia
+TTO	Trinidad & Tobago	TT	780	029	Americas	Caribbean
+TUV	Tuvalu	TV	798	061	Oceania	Polynesia
+TWN	Taiwan	TW	158	030	Asia	Eastern Asia
+TZA	Tanzania	TZ	834	014	Africa	Eastern Africa
+UKR	Ukraine	UA	804	151	Europe	Eastern Europe
+UGA	Uganda	UG	800	014	Africa	Eastern Africa
+UMI	U.S. Outlying Islands	UM	581	QO	Oceania	Outlying Oceania
+USA	United States	US	840	021	Americas	Northern America
+URY	Uruguay	UY	858	005	Americas	South America
+UZB	Uzbekistan	UZ	860	143	Asia	Central Asia
+VAT	Vatican City	VA	336	039	Europe	Southern Europe
+VCT	St. Vincent & Grenadines	VC	670	029	Americas	Caribbean
+VEN	Venezuela	VE	862	005	Americas	South America
+VGB	British Virgin Islands	VG	092	029	Americas	Caribbean
+VIR	U.S. Virgin Islands	VI	850	029	Americas	Caribbean
+VNM	Vietnam	VN	704	035	Asia	South-Eastern Asia
+VUT	Vanuatu	VU	548	054	Oceania	Melanesia
+WLF	Wallis & Futuna	WF	876	061	Oceania	Polynesia
+WSM	Samoa	WS	882	061	Oceania	Polynesia
+XKK	Kosovo	XK	983	039	Europe	Southern Europe
+YEM	Yemen	YE	887	145	Asia	Western Asia
+MYT	Mayotte	YT	175	014	Africa	Eastern Africa
+ZAF	South Africa	ZA	710	018	Africa	Southern Africa
+ZMB	Zambia	ZM	894	014	Africa	Eastern Africa
+ZWE	Zimbabwe	ZW	716	014	Africa	Eastern Africa
+ZZZ	Unknown Region	ZZ	999			

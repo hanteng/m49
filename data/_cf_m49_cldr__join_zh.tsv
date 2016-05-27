@@ -1,0 +1,260 @@
+數字代碼	三字母碼	二字母碼	M49國家英文名	CLDR國家英文名	M49國家分類	CLDR國家分類
+032	ARG	AR	Argentina	Argentina	005	005
+068	BOL	BO	Bolivia (Plurinational State of)	Bolivia	005	005
+076	BRA	BR	Brazil	Brazil	005	005
+152	CHL	CL	Chile	Chile	005	005
+170	COL	CO	Colombia	Colombia	005	005
+218	ECU	EC	Ecuador	Ecuador	005	005
+238	FLK	FK	Falkland Islands (Malvinas)	Falkland Islands	005	005
+254	GUF	GF	French Guiana	French Guiana	005	005
+328	GUY	GY	Guyana	Guyana	005	005
+604	PER	PE	Peru	Peru	005	005
+600	PRY	PY	Paraguay	Paraguay	005	005
+740	SUR	SR	Suriname	Suriname	005	005
+858	URY	UY	Uruguay	Uruguay	005	005
+862	VEN	VE	Venezuela (Bolivarian Republic of)	Venezuela	005	005
+854	BFA	BF	Burkina Faso	Burkina Faso	011	011
+204	BEN	BJ	Benin	Benin	011	011
+384	CIV	CI	Cote d'Ivoire	Côte d’Ivoire	011	011
+132	CPV	CV	Cabo Verde	Cape Verde	011	011
+288	GHA	GH	Ghana	Ghana	011	011
+270	GMB	GM	Gambia	Gambia	011	011
+324	GIN	GN	Guinea	Guinea	011	011
+624	GNB	GW	Guinea-Bissau	Guinea-Bissau	011	011
+430	LBR	LR	Liberia	Liberia	011	011
+466	MLI	ML	Mali	Mali	011	011
+478	MRT	MR	Mauritania	Mauritania	011	011
+562	NER	NE	Niger	Niger	011	011
+566	NGA	NG	Nigeria	Nigeria	011	011
+654	SHN	SH	Saint Helena	St. Helena	011	011
+694	SLE	SL	Sierra Leone	Sierra Leone	011	011
+686	SEN	SN	Senegal	Senegal	011	011
+768	TGO	TG	Togo	Togo	011	011
+084	BLZ	BZ	Belize	Belize	013	013
+188	CRI	CR	Costa Rica	Costa Rica	013	013
+320	GTM	GT	Guatemala	Guatemala	013	013
+340	HND	HN	Honduras	Honduras	013	013
+484	MEX	MX	Mexico	Mexico	013	013
+558	NIC	NI	Nicaragua	Nicaragua	013	013
+591	PAN	PA	Panama	Panama	013	013
+222	SLV	SV	El Salvador	El Salvador	013	013
+108	BDI	BI	Burundi	Burundi	014	014
+262	DJI	DJ	Djibouti	Djibouti	014	014
+232	ERI	ER	Eritrea	Eritrea	014	014
+231	ETH	ET	Ethiopia	Ethiopia	014	014
+404	KEN	KE	Kenya	Kenya	014	014
+174	COM	KM	Comoros	Comoros	014	014
+450	MDG	MG	Madagascar	Madagascar	014	014
+480	MUS	MU	Mauritius	Mauritius	014	014
+454	MWI	MW	Malawi	Malawi	014	014
+508	MOZ	MZ	Mozambique	Mozambique	014	014
+638	REU	RE	Réunion	Réunion	014	014
+646	RWA	RW	Rwanda	Rwanda	014	014
+690	SYC	SC	Seychelles	Seychelles	014	014
+706	SOM	SO	Somalia	Somalia	014	014
+728	SSD	SS	South Sudan	South Sudan	014	014
+834	TZA	TZ	United Republic of Tanzania	Tanzania	014	014
+800	UGA	UG	Uganda	Uganda	014	014
+175	MYT	YT	Mayotte	Mayotte	014	014
+894	ZMB	ZM	Zambia	Zambia	014	014
+716	ZWE	ZW	Zimbabwe	Zimbabwe	014	014
+012	DZA	DZ	Algeria	Algeria	015	015
+-65	_EA	EA	缺失值	Ceuta & Melilla	缺失值	015
+818	EGY	EG	Egypt	Egypt	015	015
+732	ESH	EH	Western Sahara	Western Sahara	015	015
+-104	_IC	IC	缺失值	Canary Islands	缺失值	015
+434	LBY	LY	Libya	Libya	015	015
+504	MAR	MA	Morocco	Morocco	015	015
+729	SDN	SD	Sudan	Sudan	015	015
+788	TUN	TN	Tunisia	Tunisia	015	015
+024	AGO	AO	Angola	Angola	017	017
+180	COD	CD	Democratic Republic of the Congo	Congo - Kinshasa	017	017
+140	CAF	CF	Central African Republic	Central African Republic	017	017
+178	COG	CG	Congo	Congo - Brazzaville	017	017
+120	CMR	CM	Cameroon	Cameroon	017	017
+266	GAB	GA	Gabon	Gabon	017	017
+226	GNQ	GQ	Equatorial Guinea	Equatorial Guinea	017	017
+678	STP	ST	Sao Tome and Principe	São Tomé & Príncipe	017	017
+148	TCD	TD	Chad	Chad	017	017
+072	BWA	BW	Botswana	Botswana	018	018
+426	LSO	LS	Lesotho	Lesotho	018	018
+516	NAM	NA	Namibia	Namibia	018	018
+748	SWZ	SZ	Swaziland	Swaziland	018	018
+710	ZAF	ZA	South Africa	South Africa	018	018
+060	BMU	BM	Bermuda	Bermuda	021	021
+124	CAN	CA	Canada	Canada	021	021
+304	GRL	GL	Greenland	Greenland	021	021
+666	SPM	PM	Saint Pierre and Miquelon	St. Pierre & Miquelon	021	021
+840	USA	US	United States of America	United States	021	021
+028	ATG	AG	Antigua and Barbuda	Antigua & Barbuda	029	029
+660	AIA	AI	Anguilla	Anguilla	029	029
+533	ABW	AW	Aruba	Aruba	029	029
+052	BRB	BB	Barbados	Barbados	029	029
+652	BLM	BL	Saint-Barthélemy	St. Barthélemy	029	029
+535	BES	BQ	Bonaire, Sint Eustatius and Saba	Caribbean Netherlands	029	029
+044	BHS	BS	Bahamas	Bahamas	029	029
+192	CUB	CU	Cuba	Cuba	029	029
+531	CUW	CW	Curaçao	Curaçao	029	029
+212	DMA	DM	Dominica	Dominica	029	029
+214	DOM	DO	Dominican Republic	Dominican Republic	029	029
+308	GRD	GD	Grenada	Grenada	029	029
+312	GLP	GP	Guadeloupe	Guadeloupe	029	029
+332	HTI	HT	Haiti	Haiti	029	029
+388	JAM	JM	Jamaica	Jamaica	029	029
+659	KNA	KN	Saint Kitts and Nevis	St. Kitts & Nevis	029	029
+136	CYM	KY	Cayman Islands	Cayman Islands	029	029
+662	LCA	LC	Saint Lucia	St. Lucia	029	029
+663	MAF	MF	Saint Martin (French part)	St. Martin	029	029
+474	MTQ	MQ	Martinique	Martinique	029	029
+500	MSR	MS	Montserrat	Montserrat	029	029
+630	PRI	PR	Puerto Rico	Puerto Rico	029	029
+534	SXM	SX	Sint Maarten (Dutch part)	Sint Maarten	029	029
+796	TCA	TC	Turks and Caicos Islands	Turks & Caicos Islands	029	029
+780	TTO	TT	Trinidad and Tobago	Trinidad & Tobago	029	029
+670	VCT	VC	Saint Vincent and the Grenadines	St. Vincent & Grenadines	029	029
+092	VGB	VG	British Virgin Islands	British Virgin Islands	029	029
+850	VIR	VI	United States Virgin Islands	U.S. Virgin Islands	029	029
+156	CHN	CN	China	China	030	030
+344	HKG	HK	China, Hong Kong Special Administrative Region	Hong Kong SAR China	030	030
+392	JPN	JP	Japan	Japan	030	030
+408	PRK	KP	Democratic People's Republic of Korea	North Korea	030	030
+410	KOR	KR	Republic of Korea	South Korea	030	030
+496	MNG	MN	Mongolia	Mongolia	030	030
+446	MAC	MO	China, Macao Special Administrative Region	Macau SAR China	030	030
+158	TWN	TW	缺失值	Taiwan	缺失值	030
+004	AFG	AF	Afghanistan	Afghanistan	034	034
+050	BGD	BD	Bangladesh	Bangladesh	034	034
+064	BTN	BT	Bhutan	Bhutan	034	034
+356	IND	IN	India	India	034	034
+364	IRN	IR	Iran (Islamic Republic of)	Iran	034	034
+144	LKA	LK	Sri Lanka	Sri Lanka	034	034
+462	MDV	MV	Maldives	Maldives	034	034
+524	NPL	NP	Nepal	Nepal	034	034
+586	PAK	PK	Pakistan	Pakistan	034	034
+096	BRN	BN	Brunei Darussalam	Brunei	035	035
+360	IDN	ID	Indonesia	Indonesia	035	035
+116	KHM	KH	Cambodia	Cambodia	035	035
+418	LAO	LA	Lao People's Democratic Republic	Laos	035	035
+104	MMR	MM	Myanmar	Myanmar (Burma)	035	035
+458	MYS	MY	Malaysia	Malaysia	035	035
+608	PHL	PH	Philippines	Philippines	035	035
+702	SGP	SG	Singapore	Singapore	035	035
+764	THA	TH	Thailand	Thailand	035	035
+626	TLS	TL	Timor-Leste	Timor-Leste	035	035
+704	VNM	VN	Viet Nam	Vietnam	035	035
+020	AND	AD	Andorra	Andorra	039	039
+008	ALB	AL	Albania	Albania	039	039
+070	BIH	BA	Bosnia and Herzegovina	Bosnia & Herzegovina	039	039
+724	ESP	ES	Spain	Spain	039	039
+292	GIB	GI	Gibraltar	Gibraltar	039	039
+300	GRC	GR	Greece	Greece	039	039
+191	HRV	HR	Croatia	Croatia	039	039
+380	ITA	IT	Italy	Italy	039	039
+499	MNE	ME	Montenegro	Montenegro	039	039
+807	MKD	MK	The former Yugoslav Republic of Macedonia	Macedonia	039	039
+470	MLT	MT	Malta	Malta	039	039
+620	PRT	PT	Portugal	Portugal	039	039
+688	SRB	RS	Serbia	Serbia	039	039
+705	SVN	SI	Slovenia	Slovenia	039	039
+674	SMR	SM	San Marino	San Marino	039	039
+336	VAT	VA	Holy See	Vatican City	039	039
+983	XKK	XK	缺失值	Kosovo	缺失值	039
+036	AUS	AU	Australia	Australia	053	053
+574	NFK	NF	Norfolk Island	Norfolk Island	053	053
+554	NZL	NZ	New Zealand	New Zealand	053	053
+242	FJI	FJ	Fiji	Fiji	054	054
+540	NCL	NC	New Caledonia	New Caledonia	054	054
+598	PNG	PG	Papua New Guinea	Papua New Guinea	054	054
+090	SLB	SB	Solomon Islands	Solomon Islands	054	054
+548	VUT	VU	Vanuatu	Vanuatu	054	054
+583	FSM	FM	Micronesia (Federated States of)	Micronesia	057	057
+316	GUM	GU	Guam	Guam	057	057
+296	KIR	KI	Kiribati	Kiribati	057	057
+584	MHL	MH	Marshall Islands	Marshall Islands	057	057
+580	MNP	MP	Northern Mariana Islands	Northern Mariana Islands	057	057
+520	NRU	NR	Nauru	Nauru	057	057
+585	PLW	PW	Palau	Palau	057	057
+016	ASM	AS	American Samoa	American Samoa	061	061
+184	COK	CK	Cook Islands	Cook Islands	061	061
+570	NIU	NU	Niue	Niue	061	061
+258	PYF	PF	French Polynesia	French Polynesia	061	061
+612	PCN	PN	Pitcairn	Pitcairn Islands	061	061
+772	TKL	TK	Tokelau	Tokelau	061	061
+776	TON	TO	Tonga	Tonga	061	061
+798	TUV	TV	Tuvalu	Tuvalu	061	061
+876	WLF	WF	Wallis and Futuna Islands	Wallis & Futuna	061	061
+882	WSM	WS	Samoa	Samoa	061	061
+417	KGZ	KG	Kyrgyzstan	Kyrgyzstan	143	143
+398	KAZ	KZ	Kazakhstan	Kazakhstan	143	143
+762	TJK	TJ	Tajikistan	Tajikistan	143	143
+795	TKM	TM	Turkmenistan	Turkmenistan	143	143
+860	UZB	UZ	Uzbekistan	Uzbekistan	143	143
+784	ARE	AE	United Arab Emirates	United Arab Emirates	145	145
+051	ARM	AM	Armenia	Armenia	145	145
+031	AZE	AZ	Azerbaijan	Azerbaijan	145	145
+048	BHR	BH	Bahrain	Bahrain	145	145
+196	CYP	CY	Cyprus	Cyprus	145	145
+268	GEO	GE	Georgia	Georgia	145	145
+376	ISR	IL	Israel	Israel	145	145
+368	IRQ	IQ	Iraq	Iraq	145	145
+400	JOR	JO	Jordan	Jordan	145	145
+414	KWT	KW	Kuwait	Kuwait	145	145
+422	LBN	LB	Lebanon	Lebanon	145	145
+512	OMN	OM	Oman	Oman	145	145
+275	PSE	PS	State of Palestine	Palestinian Territories	145	145
+634	QAT	QA	Qatar	Qatar	145	145
+682	SAU	SA	Saudi Arabia	Saudi Arabia	145	145
+760	SYR	SY	Syrian Arab Republic	Syria	145	145
+792	TUR	TR	Turkey	Turkey	145	145
+887	YEM	YE	Yemen	Yemen	145	145
+100	BGR	BG	Bulgaria	Bulgaria	151	151
+112	BLR	BY	Belarus	Belarus	151	151
+203	CZE	CZ	Czech Republic	Czech Republic	151	151
+348	HUN	HU	Hungary	Hungary	151	151
+498	MDA	MD	Republic of Moldova	Moldova	151	151
+616	POL	PL	Poland	Poland	151	151
+642	ROU	RO	Romania	Romania	151	151
+643	RUS	RU	Russian Federation	Russia	151	151
+703	SVK	SK	Slovakia	Slovakia	151	151
+804	UKR	UA	Ukraine	Ukraine	151	151
+248	ALA	AX	Åland Islands	Åland Islands	154	154
+208	DNK	DK	Denmark	Denmark	154	154
+233	EST	EE	Estonia	Estonia	154	154
+246	FIN	FI	Finland	Finland	154	154
+234	FRO	FO	Faeroe Islands	Faroe Islands	154	154
+826	GBR	GB	United Kingdom of Great Britain and Northern Ireland	United Kingdom	154	154
+831	GGY	GG	Guernsey	Guernsey	154	154
+372	IRL	IE	Ireland	Ireland	154	154
+833	IMN	IM	Isle of Man	Isle of Man	154	154
+352	ISL	IS	Iceland	Iceland	154	154
+832	JEY	JE	Jersey	Jersey	154	154
+440	LTU	LT	Lithuania	Lithuania	154	154
+428	LVA	LV	Latvia	Latvia	154	154
+578	NOR	NO	Norway	Norway	154	154
+752	SWE	SE	Sweden	Sweden	154	154
+744	SJM	SJ	Svalbard and Jan Mayen Islands	Svalbard & Jan Mayen	154	154
+040	AUT	AT	Austria	Austria	155	155
+056	BEL	BE	Belgium	Belgium	155	155
+756	CHE	CH	Switzerland	Switzerland	155	155
+276	DEU	DE	Germany	Germany	155	155
+250	FRA	FR	France	France	155	155
+438	LIE	LI	Liechtenstein	Liechtenstein	155	155
+442	LUX	LU	Luxembourg	Luxembourg	155	155
+492	MCO	MC	Monaco	Monaco	155	155
+528	NLD	NL	Netherlands	Netherlands	155	155
+999	ZZZ	ZZ	缺失值	Unknown Region	缺失值	NaN
+000	ASC	AC	缺失值	Ascension Island	缺失值	QO
+010	ATA	AQ	缺失值	Antarctica	缺失值	QO
+074	BVT	BV	缺失值	Bouvet Island	缺失值	QO
+166	CCK	CC	缺失值	Cocos (Keeling) Islands	缺失值	QO
+-50	CPT	CP	缺失值	Clipperton Island	缺失值	QO
+162	CXR	CX	缺失值	Christmas Island	缺失值	QO
+-59	DGA	DG	缺失值	Diego Garcia	缺失值	QO
+239	SGS	GS	缺失值	South Georgia & South Sandwich Islands	缺失值	QO
+334	HMD	HM	缺失值	Heard & McDonald Islands	缺失值	QO
+086	IOT	IO	缺失值	British Indian Ocean Territory	缺失值	QO
+-218	TAA	TA	缺失值	Tristan da Cunha	缺失值	QO
+260	ATF	TF	缺失值	French Southern Territories	缺失值	QO
+581	UMI	UM	缺失值	U.S. Outlying Islands	缺失值	QO
+830	缺失值	缺失值	Channel Islands	缺失值	154	缺失值
+680	缺失值	缺失值	Sark	缺失值	154	缺失值

@@ -1,0 +1,418 @@
+numeric	countryname	region	economic	excluding
+002	Africa	002	False	False
+014	Eastern Africa	014	False	False
+108	Burundi	014	False	False
+174	Comoros	014	False	False
+262	Djibouti	014	False	False
+232	Eritrea	014	False	False
+231	Ethiopia	014	False	False
+404	Kenya	014	False	False
+450	Madagascar	014	False	False
+454	Malawi	014	False	False
+480	Mauritius	014	False	False
+175	Mayotte	014	False	False
+508	Mozambique	014	False	False
+638	Réunion	014	False	False
+646	Rwanda	014	False	False
+690	Seychelles	014	False	False
+706	Somalia	014	False	False
+728	South Sudan	014	False	False
+800	Uganda	014	False	False
+834	United Republic of Tanzania	014	False	False
+894	Zambia	014	False	False
+716	Zimbabwe	014	False	False
+017	Middle Africa	017	False	False
+024	Angola	017	False	False
+120	Cameroon	017	False	False
+140	Central African Republic	017	False	False
+148	Chad	017	False	False
+178	Congo	017	False	False
+180	Democratic Republic of the Congo	017	False	False
+226	Equatorial Guinea	017	False	False
+266	Gabon	017	False	False
+678	Sao Tome and Principe	017	False	False
+015	Northern Africa	015	False	False
+012	Algeria	015	False	False
+818	Egypt	015	False	False
+434	Libya	015	False	False
+504	Morocco	015	False	False
+729	Sudan	015	False	False
+788	Tunisia	015	False	False
+732	Western Sahara	015	False	False
+018	Southern Africa	018	False	False
+072	Botswana	018	False	False
+426	Lesotho	018	False	False
+516	Namibia	018	False	False
+710	South Africa	018	False	False
+748	Swaziland	018	False	False
+011	Western Africa	011	False	False
+204	Benin	011	False	False
+854	Burkina Faso	011	False	False
+132	Cabo Verde	011	False	False
+384	Cote d'Ivoire	011	False	False
+270	Gambia	011	False	False
+288	Ghana	011	False	False
+324	Guinea	011	False	False
+624	Guinea-Bissau	011	False	False
+430	Liberia	011	False	False
+466	Mali	011	False	False
+478	Mauritania	011	False	False
+562	Niger	011	False	False
+566	Nigeria	011	False	False
+654	Saint Helena	011	False	False
+686	Senegal	011	False	False
+694	Sierra Leone	011	False	False
+768	Togo	011	False	False
+019	Americas	019	False	False
+419	Latin America and the Caribbean	419	False	False
+029	Caribbean	029	False	False
+660	Anguilla	029	False	False
+028	Antigua and Barbuda	029	False	False
+533	Aruba	029	False	False
+044	Bahamas	029	False	False
+052	Barbados	029	False	False
+535	Bonaire, Sint Eustatius and Saba	029	False	False
+092	British Virgin Islands	029	False	False
+136	Cayman Islands	029	False	False
+192	Cuba	029	False	False
+531	Curaçao	029	False	False
+212	Dominica	029	False	False
+214	Dominican Republic	029	False	False
+308	Grenada	029	False	False
+312	Guadeloupe	029	False	False
+332	Haiti	029	False	False
+388	Jamaica	029	False	False
+474	Martinique	029	False	False
+500	Montserrat	029	False	False
+630	Puerto Rico	029	False	False
+652	Saint-Barthélemy	029	False	False
+659	Saint Kitts and Nevis	029	False	False
+662	Saint Lucia	029	False	False
+663	Saint Martin (French part)	029	False	False
+670	Saint Vincent and the Grenadines	029	False	False
+534	Sint Maarten (Dutch part)	029	False	False
+780	Trinidad and Tobago	029	False	False
+796	Turks and Caicos Islands	029	False	False
+850	United States Virgin Islands	029	False	False
+013	Central America	013	False	False
+084	Belize	013	False	False
+188	Costa Rica	013	False	False
+222	El Salvador	013	False	False
+320	Guatemala	013	False	False
+340	Honduras	013	False	False
+484	Mexico	013	False	False
+558	Nicaragua	013	False	False
+591	Panama	013	False	False
+005	South America	005	False	False
+032	Argentina	005	False	False
+068	Bolivia (Plurinational State of)	005	False	False
+076	Brazil	005	False	False
+152	Chile	005	False	False
+170	Colombia	005	False	False
+218	Ecuador	005	False	False
+238	Falkland Islands (Malvinas)	005	False	False
+254	French Guiana	005	False	False
+328	Guyana	005	False	False
+600	Paraguay	005	False	False
+604	Peru	005	False	False
+740	Suriname	005	False	False
+858	Uruguay	005	False	False
+862	Venezuela (Bolivarian Republic of)	005	False	False
+021	Northern America b/	021	False	False
+060	Bermuda	021	False	False
+124	Canada	021	False	False
+304	Greenland	021	False	False
+666	Saint Pierre and Miquelon	021	False	False
+840	United States of America	021	False	False
+142	Asia	142	False	False
+143	Central Asia	143	False	False
+398	Kazakhstan	143	False	False
+417	Kyrgyzstan	143	False	False
+762	Tajikistan	143	False	False
+795	Turkmenistan	143	False	False
+860	Uzbekistan	143	False	False
+030	Eastern Asia	030	False	False
+156	China	030	False	False
+344	China, Hong Kong Special Administrative Region	030	False	False
+446	China, Macao Special Administrative Region	030	False	False
+408	Democratic People's Republic of Korea	030	False	False
+392	Japan	030	False	False
+496	Mongolia	030	False	False
+410	Republic of Korea	030	False	False
+034	Southern Asia	034	False	False
+004	Afghanistan	034	False	False
+050	Bangladesh	034	False	False
+064	Bhutan	034	False	False
+356	India	034	False	False
+364	Iran (Islamic Republic of)	034	False	False
+462	Maldives	034	False	False
+524	Nepal	034	False	False
+586	Pakistan	034	False	False
+144	Sri Lanka	034	False	False
+035	South-Eastern Asia	035	False	False
+096	Brunei Darussalam	035	False	False
+116	Cambodia	035	False	False
+360	Indonesia	035	False	False
+418	Lao People's Democratic Republic	035	False	False
+458	Malaysia	035	False	False
+104	Myanmar	035	False	False
+608	Philippines	035	False	False
+702	Singapore	035	False	False
+764	Thailand	035	False	False
+626	Timor-Leste	035	False	False
+704	Viet Nam	035	False	False
+145	Western Asia	145	False	False
+051	Armenia	145	False	False
+031	Azerbaijan	145	False	False
+048	Bahrain	145	False	False
+196	Cyprus	145	False	False
+268	Georgia	145	False	False
+368	Iraq	145	False	False
+376	Israel	145	False	False
+400	Jordan	145	False	False
+414	Kuwait	145	False	False
+422	Lebanon	145	False	False
+512	Oman	145	False	False
+634	Qatar	145	False	False
+682	Saudi Arabia	145	False	False
+275	State of Palestine	145	False	False
+760	Syrian Arab Republic	145	False	False
+792	Turkey	145	False	False
+784	United Arab Emirates	145	False	False
+887	Yemen	145	False	False
+150	Europe	150	False	False
+151	Eastern Europe	151	False	False
+112	Belarus	151	False	False
+100	Bulgaria	151	False	False
+203	Czech Republic	151	False	False
+348	Hungary	151	False	False
+616	Poland	151	False	False
+498	Republic of Moldova	151	False	False
+642	Romania	151	False	False
+643	Russian Federation	151	False	False
+703	Slovakia	151	False	False
+804	Ukraine	151	False	False
+154	Northern Europe	154	False	False
+248	Åland Islands	154	False	False
+830	Channel Islands	154	False	False
+208	Denmark	154	False	False
+233	Estonia	154	False	False
+234	Faeroe Islands	154	False	False
+246	Finland	154	False	False
+831	Guernsey	154	False	False
+352	Iceland	154	False	False
+372	Ireland	154	False	False
+833	Isle of Man	154	False	False
+832	Jersey	154	False	False
+428	Latvia	154	False	False
+440	Lithuania	154	False	False
+578	Norway	154	False	False
+680	Sark	154	False	False
+744	Svalbard and Jan Mayen Islands	154	False	False
+752	Sweden	154	False	False
+826	United Kingdom of Great Britain and Northern Ireland	154	False	False
+039	Southern Europe	039	False	False
+008	Albania	039	False	False
+020	Andorra	039	False	False
+070	Bosnia and Herzegovina	039	False	False
+191	Croatia	039	False	False
+292	Gibraltar	039	False	False
+300	Greece	039	False	False
+336	Holy See	039	False	False
+380	Italy	039	False	False
+470	Malta	039	False	False
+499	Montenegro	039	False	False
+620	Portugal	039	False	False
+674	San Marino	039	False	False
+688	Serbia	039	False	False
+705	Slovenia	039	False	False
+724	Spain	039	False	False
+807	The former Yugoslav Republic of Macedonia	039	False	False
+155	Western Europe	155	False	False
+040	Austria	155	False	False
+056	Belgium	155	False	False
+250	France	155	False	False
+276	Germany	155	False	False
+438	Liechtenstein	155	False	False
+442	Luxembourg	155	False	False
+492	Monaco	155	False	False
+528	Netherlands	155	False	False
+756	Switzerland	155	False	False
+009	Oceania	009	False	False
+053	Australia and New Zealand	053	False	False
+036	Australia	053	False	False
+554	New Zealand	053	False	False
+574	Norfolk Island	053	False	False
+054	Melanesia	054	False	False
+242	Fiji	054	False	False
+540	New Caledonia	054	False	False
+598	Papua New Guinea	054	False	False
+090	Solomon Islands	054	False	False
+548	Vanuatu	054	False	False
+057	Micronesia	057	False	False
+316	Guam	057	False	False
+296	Kiribati	057	False	False
+584	Marshall Islands	057	False	False
+583	Micronesia (Federated States of)	057	False	False
+520	Nauru	057	False	False
+580	Northern Mariana Islands	057	False	False
+585	Palau	057	False	False
+061	Polynesia	061	False	False
+016	American Samoa	061	False	False
+184	Cook Islands	061	False	False
+258	French Polynesia	061	False	False
+570	Niue	061	False	False
+612	Pitcairn	061	False	False
+882	Samoa	061	False	False
+772	Tokelau	061	False	False
+776	Tonga	061	False	False
+798	Tuvalu	061	False	False
+876	Wallis and Futuna Islands	061	False	False
+	Developed and developing regions c/		True	False
+	Developing regions	developing	True	False
+002	Africa	developing	True	False
+019	Americas excluding Northern America	developing	True	True
+029	Caribbean	developing	True	False
+013	Central America	developing	True	False
+005	South America	developing	True	False
+142	Asia excluding Japan	developing	True	True
+009	Oceania excluding Australia and New Zealand	developing	True	True
+	(numerical code 053)	developing	True	False
+	Developed regions	developed	True	False
+021	Northern America	developed	True	False
+150	Europe	developed	True	False
+392	Japan	developed	True	False
+053	Australia and New Zealand	developed	True	False
+199	Least developed countries	199	True	False
+004	Afghanistan	199	True	False
+024	Angola	199	True	False
+050	Bangladesh	199	True	False
+204	Benin	199	True	False
+064	Bhutan	199	True	False
+854	Burkina Faso	199	True	False
+108	Burundi	199	True	False
+116	Cambodia	199	True	False
+140	Central African Republic	199	True	False
+148	Chad	199	True	False
+174	Comoros	199	True	False
+180	Democratic Republic of the Congo	199	True	False
+262	Djibouti	199	True	False
+226	Equatorial Guinea	199	True	False
+232	Eritrea	199	True	False
+231	Ethiopia	199	True	False
+270	Gambia	199	True	False
+324	Guinea	199	True	False
+624	Guinea Bissau	199	True	False
+332	Haiti	199	True	False
+296	Kiribati	199	True	False
+418	Lao People's Democratic Republic	199	True	False
+426	Lesotho	199	True	False
+430	Liberia	199	True	False
+450	Madagascar	199	True	False
+454	Malawi	199	True	False
+466	Mali	199	True	False
+478	Mauritania	199	True	False
+508	Mozambique	199	True	False
+104	Myanmar	199	True	False
+524	Nepal	199	True	False
+562	Niger	199	True	False
+646	Rwanda	199	True	False
+678	Sao Tome and Principe	199	True	False
+686	Senegal	199	True	False
+694	Sierra Leone	199	True	False
+090	Solomon Islands	199	True	False
+706	Somalia	199	True	False
+728	South Sudan	199	True	False
+729	Sudan	199	True	False
+626	Timor-Leste	199	True	False
+768	Togo	199	True	False
+798	Tuvalu	199	True	False
+800	Uganda	199	True	False
+834	United Republic of Tanzania	199	True	False
+548	Vanuatu	199	True	False
+887	Yemen	199	True	False
+894	Zambia	199	True	False
+432	Landlocked developing countries	432	True	False
+004	Afghanistan	432	True	False
+051	Armenia	432	True	False
+031	Azerbaijan	432	True	False
+064	Bhutan	432	True	False
+068	Bolivia (Plurinational State of)	432	True	False
+072	Botswana	432	True	False
+854	Burkina Faso	432	True	False
+108	Burundi	432	True	False
+140	Central African Republic	432	True	False
+148	Chad	432	True	False
+231	Ethiopia	432	True	False
+398	Kazakhstan	432	True	False
+417	Kyrgyzstan	432	True	False
+418	Lao People's Democratic Republic	432	True	False
+426	Lesotho	432	True	False
+454	Malawi	432	True	False
+466	Mali	432	True	False
+496	Mongolia	432	True	False
+524	Nepal	432	True	False
+562	Niger	432	True	False
+600	Paraguay	432	True	False
+498	Republic of Moldova	432	True	False
+646	Rwanda	432	True	False
+728	South Sudan	432	True	False
+748	Swaziland	432	True	False
+762	Tajikistan	432	True	False
+807	The former Yugoslav Republic of Macedonia	432	True	False
+795	Turkmenistan	432	True	False
+800	Uganda	432	True	False
+860	Uzbekistan	432	True	False
+894	Zambia	432	True	False
+716	Zimbabwe	432	True	False
+722	Small island developing States	722	True	False
+016	American Samoa	722	True	False
+660	Anguilla	722	True	False
+028	Antigua and Barbuda	722	True	False
+533	Aruba	722	True	False
+044	Bahamas	722	True	False
+052	Barbados	722	True	False
+084	Belize	722	True	False
+092	British Virgin Islands	722	True	False
+132	Cabo Verde	722	True	False
+174	Comoros	722	True	False
+184	Cook Islands	722	True	False
+192	Cuba	722	True	False
+212	Dominica	722	True	False
+214	Dominican Republic	722	True	False
+242	Fiji	722	True	False
+258	French Polynesia	722	True	False
+308	Grenada	722	True	False
+316	Guam	722	True	False
+624	Guinea-Bissau	722	True	False
+328	Guyana	722	True	False
+332	Haiti	722	True	False
+388	Jamaica	722	True	False
+296	Kiribati	722	True	False
+462	Maldives	722	True	False
+584	Marshall Islands	722	True	False
+480	Mauritius	722	True	False
+583	Micronesia (Federated States of)	722	True	False
+500	Montserrat	722	True	False
+520	Nauru	722	True	False
+540	New Caledonia	722	True	False
+570	Niue	722	True	False
+580	Northern Mariana Islands	722	True	False
+585	Palau	722	True	False
+598	Papua New Guinea	722	True	False
+630	Puerto Rico	722	True	False
+659	Saint Kitts and Nevis	722	True	False
+662	Saint Lucia	722	True	False
+882	Samoa	722	True	False
+678	Sao Tome and Principe	722	True	False
+690	Seychelles	722	True	False
+702	Singapore	722	True	False
+090	Solomon Islands	722	True	False
+670	Saint Vincent and the Grenadines	722	True	False
+740	Suriname	722	True	False
+626	Timor-Leste	722	True	False
+776	Tonga	722	True	False
+780	Trinidad and Tobago	722	True	False
+798	Tuvalu	722	True	False
+850	United States Virgin Islands	722	True	False
+548	Vanuatu	722	True	False

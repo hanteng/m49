@@ -1,0 +1,240 @@
+countryname_left	region	economic	excluding	countrycode	countryname_right	countrycode2	region	r_long	r_long_d	len_l	len_r
+Andorra	039	False	False	AND	Andorra	AD	039	Europe	Southern Europe	7	7
+United Arab Emirates	145	False	False	ARE	United Arab Emirates	AE	145	Asia	Western Asia	20	20
+Afghanistan	034	False	False	AFG	Afghanistan	AF	034	Asia	Southern Asia	11	11
+Antigua and Barbuda	029	False	False	ATG	Antigua & Barbuda	AG	029	Americas	Caribbean	19	17
+Anguilla	029	False	False	AIA	Anguilla	AI	029	Americas	Caribbean	8	8
+Albania	039	False	False	ALB	Albania	AL	039	Europe	Southern Europe	7	7
+Armenia	145	False	False	ARM	Armenia	AM	145	Asia	Western Asia	7	7
+Angola	017	False	False	AGO	Angola	AO	017	Africa	Middle Africa	6	6
+Argentina	005	False	False	ARG	Argentina	AR	005	Americas	South America	9	9
+American Samoa	061	False	False	ASM	American Samoa	AS	061	Oceania	Polynesia	14	14
+Austria	155	False	False	AUT	Austria	AT	155	Europe	Western Europe	7	7
+Australia	053	False	False	AUS	Australia	AU	053	Oceania	Australia and New Zealand	9	9
+Aruba	029	False	False	ABW	Aruba	AW	029	Americas	Caribbean	5	5
+Åland Islands	154	False	False	ALA	Åland Islands	AX	154	Europe	Northern Europe	13	13
+Azerbaijan	145	False	False	AZE	Azerbaijan	AZ	145	Asia	Western Asia	10	10
+Bosnia and Herzegovina	039	False	False	BIH	Bosnia & Herzegovina	BA	039	Europe	Southern Europe	22	20
+Barbados	029	False	False	BRB	Barbados	BB	029	Americas	Caribbean	8	8
+Bangladesh	034	False	False	BGD	Bangladesh	BD	034	Asia	Southern Asia	10	10
+Belgium	155	False	False	BEL	Belgium	BE	155	Europe	Western Europe	7	7
+Burkina Faso	011	False	False	BFA	Burkina Faso	BF	011	Africa	Western Africa	12	12
+Bulgaria	151	False	False	BGR	Bulgaria	BG	151	Europe	Eastern Europe	8	8
+Bahrain	145	False	False	BHR	Bahrain	BH	145	Asia	Western Asia	7	7
+Burundi	014	False	False	BDI	Burundi	BI	014	Africa	Eastern Africa	7	7
+Benin	011	False	False	BEN	Benin	BJ	011	Africa	Western Africa	5	5
+Saint-Barthélemy	029	False	False	BLM	St. Barthélemy	BL	029	Americas	Caribbean	16	14
+Bermuda	021	False	False	BMU	Bermuda	BM	021	Americas	Northern America	7	7
+Brunei Darussalam	035	False	False	BRN	Brunei	BN	035	Asia	South-Eastern Asia	17	6
+Bolivia (Plurinational State of)	005	False	False	BOL	Bolivia	BO	005	Americas	South America	32	7
+Bonaire, Sint Eustatius and Saba	029	False	False	BES	Caribbean Netherlands	BQ	029	Americas	Caribbean	32	21
+Brazil	005	False	False	BRA	Brazil	BR	005	Americas	South America	6	6
+Bahamas	029	False	False	BHS	Bahamas	BS	029	Americas	Caribbean	7	7
+Bhutan	034	False	False	BTN	Bhutan	BT	034	Asia	Southern Asia	6	6
+Botswana	018	False	False	BWA	Botswana	BW	018	Africa	Southern Africa	8	8
+Belarus	151	False	False	BLR	Belarus	BY	151	Europe	Eastern Europe	7	7
+Belize	013	False	False	BLZ	Belize	BZ	013	Americas	Central America	6	6
+Canada	021	False	False	CAN	Canada	CA	021	Americas	Northern America	6	6
+Democratic Republic of the Congo	017	False	False	COD	Congo - Kinshasa	CD	017	Africa	Middle Africa	32	16
+Central African Republic	017	False	False	CAF	Central African Republic	CF	017	Africa	Middle Africa	24	24
+Congo	017	False	False	COG	Congo - Brazzaville	CG	017	Africa	Middle Africa	5	19
+Switzerland	155	False	False	CHE	Switzerland	CH	155	Europe	Western Europe	11	11
+Cote d'Ivoire	011	False	False	CIV	Côte d’Ivoire	CI	011	Africa	Western Africa	13	13
+Cook Islands	061	False	False	COK	Cook Islands	CK	061	Oceania	Polynesia	12	12
+Chile	005	False	False	CHL	Chile	CL	005	Americas	South America	5	5
+Cameroon	017	False	False	CMR	Cameroon	CM	017	Africa	Middle Africa	8	8
+China	030	False	False	CHN	China	CN	030	Asia	Eastern Asia	5	5
+Colombia	005	False	False	COL	Colombia	CO	005	Americas	South America	8	8
+Costa Rica	013	False	False	CRI	Costa Rica	CR	013	Americas	Central America	10	10
+Cuba	029	False	False	CUB	Cuba	CU	029	Americas	Caribbean	4	4
+Cabo Verde	011	False	False	CPV	Cape Verde	CV	011	Africa	Western Africa	10	10
+Curaçao	029	False	False	CUW	Curaçao	CW	029	Americas	Caribbean	7	7
+Cyprus	145	False	False	CYP	Cyprus	CY	145	Asia	Western Asia	6	6
+Czech Republic	151	False	False	CZE	Czech Republic	CZ	151	Europe	Eastern Europe	14	14
+Germany	155	False	False	DEU	Germany	DE	155	Europe	Western Europe	7	7
+Djibouti	014	False	False	DJI	Djibouti	DJ	014	Africa	Eastern Africa	8	8
+Denmark	154	False	False	DNK	Denmark	DK	154	Europe	Northern Europe	7	7
+Dominica	029	False	False	DMA	Dominica	DM	029	Americas	Caribbean	8	8
+Dominican Republic	029	False	False	DOM	Dominican Republic	DO	029	Americas	Caribbean	18	18
+Algeria	015	False	False	DZA	Algeria	DZ	015	Africa	Northern Africa	7	7
+Ecuador	005	False	False	ECU	Ecuador	EC	005	Americas	South America	7	7
+Estonia	154	False	False	EST	Estonia	EE	154	Europe	Northern Europe	7	7
+Egypt	015	False	False	EGY	Egypt	EG	015	Africa	Northern Africa	5	5
+Western Sahara	015	False	False	ESH	Western Sahara	EH	015	Africa	Northern Africa	14	14
+Eritrea	014	False	False	ERI	Eritrea	ER	014	Africa	Eastern Africa	7	7
+Spain	039	False	False	ESP	Spain	ES	039	Europe	Southern Europe	5	5
+Ethiopia	014	False	False	ETH	Ethiopia	ET	014	Africa	Eastern Africa	8	8
+Finland	154	False	False	FIN	Finland	FI	154	Europe	Northern Europe	7	7
+Fiji	054	False	False	FJI	Fiji	FJ	054	Oceania	Melanesia	4	4
+Falkland Islands (Malvinas)	005	False	False	FLK	Falkland Islands	FK	005	Americas	South America	27	16
+Micronesia (Federated States of)	057	False	False	FSM	Micronesia	FM	057	Oceania	Micronesia	32	10
+Faeroe Islands	154	False	False	FRO	Faroe Islands	FO	154	Europe	Northern Europe	14	13
+France	155	False	False	FRA	France	FR	155	Europe	Western Europe	6	6
+Gabon	017	False	False	GAB	Gabon	GA	017	Africa	Middle Africa	5	5
+United Kingdom of Great Britain and Northern Ireland	154	False	False	GBR	United Kingdom	GB	154	Europe	Northern Europe	52	14
+Grenada	029	False	False	GRD	Grenada	GD	029	Americas	Caribbean	7	7
+Georgia	145	False	False	GEO	Georgia	GE	145	Asia	Western Asia	7	7
+French Guiana	005	False	False	GUF	French Guiana	GF	005	Americas	South America	13	13
+Guernsey	154	False	False	GGY	Guernsey	GG	154	Europe	Northern Europe	8	8
+Ghana	011	False	False	GHA	Ghana	GH	011	Africa	Western Africa	5	5
+Gibraltar	039	False	False	GIB	Gibraltar	GI	039	Europe	Southern Europe	9	9
+Greenland	021	False	False	GRL	Greenland	GL	021	Americas	Northern America	9	9
+Gambia	011	False	False	GMB	Gambia	GM	011	Africa	Western Africa	6	6
+Guinea	011	False	False	GIN	Guinea	GN	011	Africa	Western Africa	6	6
+Guadeloupe	029	False	False	GLP	Guadeloupe	GP	029	Americas	Caribbean	10	10
+Equatorial Guinea	017	False	False	GNQ	Equatorial Guinea	GQ	017	Africa	Middle Africa	17	17
+Greece	039	False	False	GRC	Greece	GR	039	Europe	Southern Europe	6	6
+Guatemala	013	False	False	GTM	Guatemala	GT	013	Americas	Central America	9	9
+Guam	057	False	False	GUM	Guam	GU	057	Oceania	Micronesia	4	4
+Guinea-Bissau	011	False	False	GNB	Guinea-Bissau	GW	011	Africa	Western Africa	13	13
+Guyana	005	False	False	GUY	Guyana	GY	005	Americas	South America	6	6
+China, Hong Kong Special Administrative Region	030	False	False	HKG	Hong Kong SAR China	HK	030	Asia	Eastern Asia	46	19
+Honduras	013	False	False	HND	Honduras	HN	013	Americas	Central America	8	8
+Croatia	039	False	False	HRV	Croatia	HR	039	Europe	Southern Europe	7	7
+Haiti	029	False	False	HTI	Haiti	HT	029	Americas	Caribbean	5	5
+Hungary	151	False	False	HUN	Hungary	HU	151	Europe	Eastern Europe	7	7
+Indonesia	035	False	False	IDN	Indonesia	ID	035	Asia	South-Eastern Asia	9	9
+Ireland	154	False	False	IRL	Ireland	IE	154	Europe	Northern Europe	7	7
+Israel	145	False	False	ISR	Israel	IL	145	Asia	Western Asia	6	6
+Isle of Man	154	False	False	IMN	Isle of Man	IM	154	Europe	Northern Europe	11	11
+India	034	False	False	IND	India	IN	034	Asia	Southern Asia	5	5
+Iraq	145	False	False	IRQ	Iraq	IQ	145	Asia	Western Asia	4	4
+Iran (Islamic Republic of)	034	False	False	IRN	Iran	IR	034	Asia	Southern Asia	26	4
+Iceland	154	False	False	ISL	Iceland	IS	154	Europe	Northern Europe	7	7
+Italy	039	False	False	ITA	Italy	IT	039	Europe	Southern Europe	5	5
+Jersey	154	False	False	JEY	Jersey	JE	154	Europe	Northern Europe	6	6
+Jamaica	029	False	False	JAM	Jamaica	JM	029	Americas	Caribbean	7	7
+Jordan	145	False	False	JOR	Jordan	JO	145	Asia	Western Asia	6	6
+Japan	030	False	False	JPN	Japan	JP	030	Asia	Eastern Asia	5	5
+Kenya	014	False	False	KEN	Kenya	KE	014	Africa	Eastern Africa	5	5
+Kyrgyzstan	143	False	False	KGZ	Kyrgyzstan	KG	143	Asia	Central Asia	10	10
+Cambodia	035	False	False	KHM	Cambodia	KH	035	Asia	South-Eastern Asia	8	8
+Kiribati	057	False	False	KIR	Kiribati	KI	057	Oceania	Micronesia	8	8
+Comoros	014	False	False	COM	Comoros	KM	014	Africa	Eastern Africa	7	7
+Saint Kitts and Nevis	029	False	False	KNA	St. Kitts & Nevis	KN	029	Americas	Caribbean	21	17
+Democratic People's Republic of Korea	030	False	False	PRK	North Korea	KP	030	Asia	Eastern Asia	37	11
+Republic of Korea	030	False	False	KOR	South Korea	KR	030	Asia	Eastern Asia	17	11
+Kuwait	145	False	False	KWT	Kuwait	KW	145	Asia	Western Asia	6	6
+Cayman Islands	029	False	False	CYM	Cayman Islands	KY	029	Americas	Caribbean	14	14
+Kazakhstan	143	False	False	KAZ	Kazakhstan	KZ	143	Asia	Central Asia	10	10
+Lao People's Democratic Republic	035	False	False	LAO	Laos	LA	035	Asia	South-Eastern Asia	32	4
+Lebanon	145	False	False	LBN	Lebanon	LB	145	Asia	Western Asia	7	7
+Saint Lucia	029	False	False	LCA	St. Lucia	LC	029	Americas	Caribbean	11	9
+Liechtenstein	155	False	False	LIE	Liechtenstein	LI	155	Europe	Western Europe	13	13
+Sri Lanka	034	False	False	LKA	Sri Lanka	LK	034	Asia	Southern Asia	9	9
+Liberia	011	False	False	LBR	Liberia	LR	011	Africa	Western Africa	7	7
+Lesotho	018	False	False	LSO	Lesotho	LS	018	Africa	Southern Africa	7	7
+Lithuania	154	False	False	LTU	Lithuania	LT	154	Europe	Northern Europe	9	9
+Luxembourg	155	False	False	LUX	Luxembourg	LU	155	Europe	Western Europe	10	10
+Latvia	154	False	False	LVA	Latvia	LV	154	Europe	Northern Europe	6	6
+Libya	015	False	False	LBY	Libya	LY	015	Africa	Northern Africa	5	5
+Morocco	015	False	False	MAR	Morocco	MA	015	Africa	Northern Africa	7	7
+Monaco	155	False	False	MCO	Monaco	MC	155	Europe	Western Europe	6	6
+Republic of Moldova	151	False	False	MDA	Moldova	MD	151	Europe	Eastern Europe	19	7
+Montenegro	039	False	False	MNE	Montenegro	ME	039	Europe	Southern Europe	10	10
+Saint Martin (French part)	029	False	False	MAF	St. Martin	MF	029	Americas	Caribbean	26	10
+Madagascar	014	False	False	MDG	Madagascar	MG	014	Africa	Eastern Africa	10	10
+Marshall Islands	057	False	False	MHL	Marshall Islands	MH	057	Oceania	Micronesia	16	16
+The former Yugoslav Republic of Macedonia	039	False	False	MKD	Macedonia	MK	039	Europe	Southern Europe	41	9
+Mali	011	False	False	MLI	Mali	ML	011	Africa	Western Africa	4	4
+Myanmar	035	False	False	MMR	Myanmar (Burma)	MM	035	Asia	South-Eastern Asia	7	15
+Mongolia	030	False	False	MNG	Mongolia	MN	030	Asia	Eastern Asia	8	8
+China, Macao Special Administrative Region	030	False	False	MAC	Macau SAR China	MO	030	Asia	Eastern Asia	42	15
+Northern Mariana Islands	057	False	False	MNP	Northern Mariana Islands	MP	057	Oceania	Micronesia	24	24
+Martinique	029	False	False	MTQ	Martinique	MQ	029	Americas	Caribbean	10	10
+Mauritania	011	False	False	MRT	Mauritania	MR	011	Africa	Western Africa	10	10
+Montserrat	029	False	False	MSR	Montserrat	MS	029	Americas	Caribbean	10	10
+Malta	039	False	False	MLT	Malta	MT	039	Europe	Southern Europe	5	5
+Mauritius	014	False	False	MUS	Mauritius	MU	014	Africa	Eastern Africa	9	9
+Maldives	034	False	False	MDV	Maldives	MV	034	Asia	Southern Asia	8	8
+Malawi	014	False	False	MWI	Malawi	MW	014	Africa	Eastern Africa	6	6
+Mexico	013	False	False	MEX	Mexico	MX	013	Americas	Central America	6	6
+Malaysia	035	False	False	MYS	Malaysia	MY	035	Asia	South-Eastern Asia	8	8
+Mozambique	014	False	False	MOZ	Mozambique	MZ	014	Africa	Eastern Africa	10	10
+Namibia	018	False	False	NAM	Namibia	NA	018	Africa	Southern Africa	7	7
+New Caledonia	054	False	False	NCL	New Caledonia	NC	054	Oceania	Melanesia	13	13
+Niger	011	False	False	NER	Niger	NE	011	Africa	Western Africa	5	5
+Norfolk Island	053	False	False	NFK	Norfolk Island	NF	053	Oceania	Australia and New Zealand	14	14
+Nigeria	011	False	False	NGA	Nigeria	NG	011	Africa	Western Africa	7	7
+Nicaragua	013	False	False	NIC	Nicaragua	NI	013	Americas	Central America	9	9
+Netherlands	155	False	False	NLD	Netherlands	NL	155	Europe	Western Europe	11	11
+Norway	154	False	False	NOR	Norway	NO	154	Europe	Northern Europe	6	6
+Nepal	034	False	False	NPL	Nepal	NP	034	Asia	Southern Asia	5	5
+Nauru	057	False	False	NRU	Nauru	NR	057	Oceania	Micronesia	5	5
+Niue	061	False	False	NIU	Niue	NU	061	Oceania	Polynesia	4	4
+New Zealand	053	False	False	NZL	New Zealand	NZ	053	Oceania	Australia and New Zealand	11	11
+Oman	145	False	False	OMN	Oman	OM	145	Asia	Western Asia	4	4
+Panama	013	False	False	PAN	Panama	PA	013	Americas	Central America	6	6
+Peru	005	False	False	PER	Peru	PE	005	Americas	South America	4	4
+French Polynesia	061	False	False	PYF	French Polynesia	PF	061	Oceania	Polynesia	16	16
+Papua New Guinea	054	False	False	PNG	Papua New Guinea	PG	054	Oceania	Melanesia	16	16
+Philippines	035	False	False	PHL	Philippines	PH	035	Asia	South-Eastern Asia	11	11
+Pakistan	034	False	False	PAK	Pakistan	PK	034	Asia	Southern Asia	8	8
+Poland	151	False	False	POL	Poland	PL	151	Europe	Eastern Europe	6	6
+Saint Pierre and Miquelon	021	False	False	SPM	St. Pierre & Miquelon	PM	021	Americas	Northern America	25	21
+Pitcairn	061	False	False	PCN	Pitcairn Islands	PN	061	Oceania	Polynesia	8	16
+Puerto Rico	029	False	False	PRI	Puerto Rico	PR	029	Americas	Caribbean	11	11
+State of Palestine	145	False	False	PSE	Palestinian Territories	PS	145	Asia	Western Asia	18	23
+Portugal	039	False	False	PRT	Portugal	PT	039	Europe	Southern Europe	8	8
+Palau	057	False	False	PLW	Palau	PW	057	Oceania	Micronesia	5	5
+Paraguay	005	False	False	PRY	Paraguay	PY	005	Americas	South America	8	8
+Qatar	145	False	False	QAT	Qatar	QA	145	Asia	Western Asia	5	5
+Réunion	014	False	False	REU	Réunion	RE	014	Africa	Eastern Africa	7	7
+Romania	151	False	False	ROU	Romania	RO	151	Europe	Eastern Europe	7	7
+Serbia	039	False	False	SRB	Serbia	RS	039	Europe	Southern Europe	6	6
+Russian Federation	151	False	False	RUS	Russia	RU	151	Europe	Eastern Europe	18	6
+Rwanda	014	False	False	RWA	Rwanda	RW	014	Africa	Eastern Africa	6	6
+Saudi Arabia	145	False	False	SAU	Saudi Arabia	SA	145	Asia	Western Asia	12	12
+Solomon Islands	054	False	False	SLB	Solomon Islands	SB	054	Oceania	Melanesia	15	15
+Seychelles	014	False	False	SYC	Seychelles	SC	014	Africa	Eastern Africa	10	10
+Sudan	015	False	False	SDN	Sudan	SD	015	Africa	Northern Africa	5	5
+Sweden	154	False	False	SWE	Sweden	SE	154	Europe	Northern Europe	6	6
+Singapore	035	False	False	SGP	Singapore	SG	035	Asia	South-Eastern Asia	9	9
+Saint Helena	011	False	False	SHN	St. Helena	SH	011	Africa	Western Africa	12	10
+Slovenia	039	False	False	SVN	Slovenia	SI	039	Europe	Southern Europe	8	8
+Svalbard and Jan Mayen Islands	154	False	False	SJM	Svalbard & Jan Mayen	SJ	154	Europe	Northern Europe	30	20
+Slovakia	151	False	False	SVK	Slovakia	SK	151	Europe	Eastern Europe	8	8
+Sierra Leone	011	False	False	SLE	Sierra Leone	SL	011	Africa	Western Africa	12	12
+San Marino	039	False	False	SMR	San Marino	SM	039	Europe	Southern Europe	10	10
+Senegal	011	False	False	SEN	Senegal	SN	011	Africa	Western Africa	7	7
+Somalia	014	False	False	SOM	Somalia	SO	014	Africa	Eastern Africa	7	7
+Suriname	005	False	False	SUR	Suriname	SR	005	Americas	South America	8	8
+South Sudan	014	False	False	SSD	South Sudan	SS	014	Africa	Eastern Africa	11	11
+Sao Tome and Principe	017	False	False	STP	São Tomé & Príncipe	ST	017	Africa	Middle Africa	21	19
+El Salvador	013	False	False	SLV	El Salvador	SV	013	Americas	Central America	11	11
+Sint Maarten (Dutch part)	029	False	False	SXM	Sint Maarten	SX	029	Americas	Caribbean	25	12
+Syrian Arab Republic	145	False	False	SYR	Syria	SY	145	Asia	Western Asia	20	5
+Swaziland	018	False	False	SWZ	Swaziland	SZ	018	Africa	Southern Africa	9	9
+Turks and Caicos Islands	029	False	False	TCA	Turks & Caicos Islands	TC	029	Americas	Caribbean	24	22
+Chad	017	False	False	TCD	Chad	TD	017	Africa	Middle Africa	4	4
+Togo	011	False	False	TGO	Togo	TG	011	Africa	Western Africa	4	4
+Thailand	035	False	False	THA	Thailand	TH	035	Asia	South-Eastern Asia	8	8
+Tajikistan	143	False	False	TJK	Tajikistan	TJ	143	Asia	Central Asia	10	10
+Tokelau	061	False	False	TKL	Tokelau	TK	061	Oceania	Polynesia	7	7
+Timor-Leste	035	False	False	TLS	Timor-Leste	TL	035	Asia	South-Eastern Asia	11	11
+Turkmenistan	143	False	False	TKM	Turkmenistan	TM	143	Asia	Central Asia	12	12
+Tunisia	015	False	False	TUN	Tunisia	TN	015	Africa	Northern Africa	7	7
+Tonga	061	False	False	TON	Tonga	TO	061	Oceania	Polynesia	5	5
+Turkey	145	False	False	TUR	Turkey	TR	145	Asia	Western Asia	6	6
+Trinidad and Tobago	029	False	False	TTO	Trinidad & Tobago	TT	029	Americas	Caribbean	19	17
+Tuvalu	061	False	False	TUV	Tuvalu	TV	061	Oceania	Polynesia	6	6
+United Republic of Tanzania	014	False	False	TZA	Tanzania	TZ	014	Africa	Eastern Africa	27	8
+Ukraine	151	False	False	UKR	Ukraine	UA	151	Europe	Eastern Europe	7	7
+Uganda	014	False	False	UGA	Uganda	UG	014	Africa	Eastern Africa	6	6
+United States of America	021	False	False	USA	United States	US	021	Americas	Northern America	24	13
+Uruguay	005	False	False	URY	Uruguay	UY	005	Americas	South America	7	7
+Uzbekistan	143	False	False	UZB	Uzbekistan	UZ	143	Asia	Central Asia	10	10
+Holy See	039	False	False	VAT	Vatican City	VA	039	Europe	Southern Europe	8	12
+Saint Vincent and the Grenadines	029	False	False	VCT	St. Vincent & Grenadines	VC	029	Americas	Caribbean	32	24
+Venezuela (Bolivarian Republic of)	005	False	False	VEN	Venezuela	VE	005	Americas	South America	34	9
+British Virgin Islands	029	False	False	VGB	British Virgin Islands	VG	029	Americas	Caribbean	22	22
+United States Virgin Islands	029	False	False	VIR	U.S. Virgin Islands	VI	029	Americas	Caribbean	28	19
+Viet Nam	035	False	False	VNM	Vietnam	VN	035	Asia	South-Eastern Asia	8	7
+Vanuatu	054	False	False	VUT	Vanuatu	VU	054	Oceania	Melanesia	7	7
+Wallis and Futuna Islands	061	False	False	WLF	Wallis & Futuna	WF	061	Oceania	Polynesia	25	15
+Samoa	061	False	False	WSM	Samoa	WS	061	Oceania	Polynesia	5	5
+Yemen	145	False	False	YEM	Yemen	YE	145	Asia	Western Asia	5	5
+Mayotte	014	False	False	MYT	Mayotte	YT	014	Africa	Eastern Africa	7	7
+South Africa	018	False	False	ZAF	South Africa	ZA	018	Africa	Southern Africa	12	12
+Zambia	014	False	False	ZMB	Zambia	ZM	014	Africa	Eastern Africa	6	6
+Zimbabwe	014	False	False	ZWE	Zimbabwe	ZW	014	Africa	Eastern Africa	8	8
